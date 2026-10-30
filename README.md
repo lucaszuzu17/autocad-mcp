@@ -1,5 +1,9 @@
 # AutoCAD MCP Server
 
+> **About this fork.** Maintained fork of [puran-water/autocad-mcp](https://github.com/puran-water/autocad-mcp) (MIT), used in production on **AutoCAD 2027 pt-BR**. It adds the v3.2 fixes (layers, linetypes on localized installs, hatch, arc, JSON escaping, dispatcher autoload, longer timeouts), also proposed upstream in [puran-water/autocad-mcp#17](https://github.com/puran-water/autocad-mcp/pull/17). Updates from the original project are merged from the `upstream` remote.
+>
+> **Sobre este fork.** Versão mantida do autocad-mcp original, usada no AutoCAD 2027 em português, com as correções da v3.2. Novidades do projeto original são incorporadas a partir do remoto `upstream`.
+
 MCP server for AutoCAD LT automation and headless DXF generation.
 
 Two backends, one API:
